@@ -1,7 +1,4 @@
-# Ignore Data folders
-data/
-NN_project/data/
-kaggle-data/
+
 
 # Ignore Model files
 *.pkl
