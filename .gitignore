@@ -3,7 +3,6 @@
 # Ignore Model files
 *.pkl
 *.h5
-*.wav
 *.mp4
 
 # Ignore Python cache
