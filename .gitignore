@@ -1,7 +1,6 @@
 
 
 # Ignore Model files
-*.pkl
 *.h5
 
 # Ignore Python cache
